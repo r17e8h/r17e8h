@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="260" src="https://www.gifcen.com/wp-content/uploads/2023/12/berserk-gif-18.gif">
+  ![berserk-gif-18](https://github.com/user-attachments/assets/23df6421-d67a-4cca-ba1a-034aad4e10af)
 </p>
 
 ###
