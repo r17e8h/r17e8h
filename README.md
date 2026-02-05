@@ -56,6 +56,17 @@
 
 ###
 
+<table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r17e8h&theme=github_dark" width="350" alt="Most Used Languages" />
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=r17e8h&theme=github-dark&hide_border=true" width="350" alt="Contribution Streak" />
+      </td>
+    </tr>
+  </table>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=r17e8h&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
