@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="berserk-gif-18.gif" height="260" alt="Berserk GIF">
+  <img src="berserk-gif-19.gif" height="260" alt="Berserk GIF">
 </p>
 
 ###
@@ -11,6 +11,7 @@
 <h2 align="center">Computer Science Undergrad | Fedora User | FOSS | Chess | Dev </h2>
 
 ###
+
 <h3 align="left">About Me:</h3>
 
 - I'm currently learning **C++** and **Bash Shell Scripting**.
