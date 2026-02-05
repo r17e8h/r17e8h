@@ -62,6 +62,9 @@
 
 ###
 <img src="https://raw.githubusercontent.com/r17e8h/r17e8h/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <h3 align="center">Thank you!</h3>
+
+###
