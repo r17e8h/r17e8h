@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
+  <img height="260" src="https://www.gifcen.com/wp-content/uploads/2023/12/berserk-gif-18.gif"  />
+</div>
 
-<!--
-**r17e8h/R17E8H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">Konnichiwa! I'm Ritesh</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="center">Computer Science Undergrad | Fedora User | FOSS | Chess | Dev </h2>
+
+###
+<h3 align="left">About Me:</h3>
+
+- I'm currently learning **C++** and **Bash Shell Scripting**.
+- I'm also interested in **Backend Development**, **ML**.
+- I love ricing. Find **dotfiles** for my linux system [here](https://github.com/r17e8h/r17e8h-dotfiles)
+- Wanna play **Chess** with me? :) [Chess.com](https://www.chess.com/member/r17e8h)
+- Hit Me Up: [r17e8h@proton.me](mailto:r17e8h@proton.me)
+
+###
+
+<h3 align="left">Tech Stack:</h2>
+
+### Low-Level & System Programming
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### High-Level & Scripting Languages
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Operating Systems, Desktop Environments & Window Managers
+![Linux](https://img.shields.io/badge/Linux-%233C3D3F?style=for-the-badge&logo=linux&logoColor=black)
+![GNOME](https://img.shields.io/badge/GNOME-%233B82B2?style=for-the-badge&logo=gnome&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Wayland](https://img.shields.io/badge/Wayland-005B96?style=for-the-badge&logo=wayland&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-000000?style=for-the-badge&logo=windows-11&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-%F05033?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-%234E7B2B?style=for-the-badge&logo=neovim&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-1E1E1E?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r17e8h&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r17e8h&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=r17e8h&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r17e8h&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h3 align="center">Thank you!</h3>
