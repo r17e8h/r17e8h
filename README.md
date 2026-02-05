@@ -1,6 +1,6 @@
-<div align="center">
-  <img height="260" src="https://www.gifcen.com/wp-content/uploads/2023/12/berserk-gif-18.gif"  />
-</div>
+<p align="center">
+  <img height="260" src="https://www.gifcen.com/wp-content/uploads/2023/12/berserk-gif-18.gif">
+</p>
 
 ###
 
