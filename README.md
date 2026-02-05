@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="berserk-gif-19.gif" height="260" alt="Berserk GIF">
+  <img src="berserk-gif-19.gif" height="350" alt="Berserk GIF">
 </p>
 
 ###
@@ -57,8 +57,14 @@
 ###
 
 <div align="center">
+  <img src="github-metrics.svg" alt="Language Stats" />
+  <img src="github-metrics.svg" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=r17e8h&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/r17e8h/r17e8h/output/snake.svg" alt="Snake animation" />
 
 ###
 
