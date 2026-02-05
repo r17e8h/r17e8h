@@ -1,5 +1,5 @@
 <p align="center">
-  ![berserk-gif-18](https://github.com/user-attachments/assets/23df6421-d67a-4cca-ba1a-034aad4e10af)
+  <img src="berserk-gif-18.gif" height="260" alt="Berserk GIF">
 </p>
 
 ###
